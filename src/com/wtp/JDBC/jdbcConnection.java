@@ -17,6 +17,7 @@ public class jdbcConnection {
 //        ResultSet res = p.executeQuery();
         ResultSet res = stmt.executeQuery("select * from test");
 
+        //f
         while(res.next()){
             System.out.print(res.getInt("wf") + " ");
             System.out.print(res.getInt("fdsf") + " ");
