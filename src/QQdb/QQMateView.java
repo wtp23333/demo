@@ -197,6 +197,9 @@ public class QQMateView extends JFrame{
 				System.out.println("555");
 
 				System.out.println("4");
+				System.out.println("4");
+				System.out.println("4");
+				System.out.println("4");
 			}
 		});
 
