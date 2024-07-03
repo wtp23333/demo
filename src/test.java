@@ -8,5 +8,7 @@ public class test {
 
         DBUtil.execute(sql,new Object[]{});
 //        DBUtil.execute(sql, new Object[]{1234.5, "456666"});
+
+        //啊手动阀手动阀
     }
 }
