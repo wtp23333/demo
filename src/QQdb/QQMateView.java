@@ -193,7 +193,7 @@ public class QQMateView extends JFrame{
 				String s = buzService.mateList(theInput, loginAccount);
 				jta.setText(s);
 				System.out.println("555");
-				System.out.println("4444");
+				System.out.println("4");
 			}
 		});
 
