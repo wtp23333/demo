@@ -194,6 +194,8 @@ public class QQMateView extends JFrame{
 				jta.setText(s);
 				System.out.println("5");
 				System.out.println("4444");
+				System.out.println("555");
+				System.out.println("4");
 			}
 		});
 
@@ -233,7 +235,6 @@ public class QQMateView extends JFrame{
 	}
 
 	public static void main(String[] args) {
-		System.out.println("22233");
 		new QQMateView();
 	}
 }

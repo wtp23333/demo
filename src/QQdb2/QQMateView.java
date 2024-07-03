@@ -9,6 +9,7 @@ import QQdb2.templateservice.BuzJDBCTemplateService;
 
  public class QQMateView extends JFrame{
 
+	 //???
 	 private static final String BASE_PATH = "D:\\tupian\\";
 
 	 private static final long serialVersionUID = -6788045638380819221L;//了保持版本的兼容性
@@ -233,6 +234,9 @@ import QQdb2.templateservice.BuzJDBCTemplateService;
 	 }
 
 	 public static void main(String[] args) {
+		 System.out.println("111");
+		 System.out.println("111");
+		 System.out.println("111");
 		 new QQMateView();
 	 }
  }
